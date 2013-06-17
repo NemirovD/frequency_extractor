@@ -3,7 +3,7 @@ A program that analyses a text file for changes in the signal defined by the fil
 
 #### Usage
 
-mCG &lt;Input FileName&gt;
+FE &lt;Input FileName&gt;
 
 #### File Format
 
